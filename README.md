@@ -10,7 +10,7 @@
 3. Scene 2 (498x281): https://media1.tenor.com/m/Hft0Ev3JylEAAAAd/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif
 4. Edit (498x399): https://media1.tenor.com/m/-raRPp4_uvUAAAAd/ayanokoji-classroom-of-the-elite.gif
 -->
-<img align="right" width="360" alt="Ayanokouji Kiyotaka GIF" src="https://media1.tenor.com/m/7mSj4FRRZP0AAAAd/kiyotaka-ayanokoji-eyes.gif" />
+<img align="right" width="360" alt="Ayanokouji Kiyotaka GIF" src="https://media1.tenor.com/m/EtOu8pI0zvsAAAAd/ayanokoji-kiyotaka-kiyotaka-ayanokoji.gif" />
 
 **I'm** ***Mochammad Zacki Ibrahim*** (`@flyingdutchman125`) — a passionate and curious developer exploring the world of modern software engineering.  
 Currently diving deep into **Full-Stack Web Development**, **Mobile App Development**, and **Python / AI**, while pursuing my studies at **PENS** *(Politeknik Elektronika Negeri Surabaya)*.
@@ -27,9 +27,9 @@ const zacki = {
     pronouns: "He" | "Him",
     location: "Surabaya, East Java, Indonesia 🇮🇩",
     education: "Politeknik Elektronika Negeri Surabaya (PENS)",
-    currentFocus: ["Full-Stack Web Development", "Mobile Development (Flutter)", "AI & Smart Systems"],
+    currentFocus: ["Full-Stack Web Development", "Mobile Development", "AI & Smart Systems"],
     techStack: ["TypeScript", "JavaScript", "PHP / Laravel", "Python", "Dart / Flutter", "C++", "Java"],
-    funFact: "Turning caffeine and late-night ideas into clean code ☕"
+    funFact: "Turning caffeine with cigarettes and late-night ideas into clean code ☕"
 };
 ```
 
