@@ -173,19 +173,19 @@ Jika sudah connect akun di https://spotify-github-profile.kittinanx.com/, hapus 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="mailto:mochammadzacki@gmail.com" target="_blank">
+  <a href="mailto:zakiibrahim178@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo" />
   </a>
   <a href="https://github.com/flyingdutchman125" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="github logo" />
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/M_Zacki.I4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/mochammad-zacki-1a9ba0345" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
   </a>
-  <a href="https://discord.com/" target="_blank">
+  <a href="https://discord.com/users/863066135893114890" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo" />
   </a>
 </div>
