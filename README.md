@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=750&height=80&lines=%E2%96%B8+WELCOME+TO+MY+GITHUB+%E2%97%82;%E2%96%B8+HI%2C+I'M+MOCHAMMAD+ZACKI+%E2%97%82;%E2%96%B8+FULL-STACK+%26+MOBILE+DEVELOPER+%E2%97%82" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=flyingdutchman125&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 # Youkoso, Watashi No GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave" />
@@ -17,6 +19,11 @@ Currently diving deep into **Full-Stack Web Development**, **Mobile App Developm
 
 I enjoy building end-to-end applications from scratch, designing clean and responsive user interfaces, architecting reliable backend systems, and constantly pushing myself to grow — one commit at a time.  
 When I'm not coding, you'll probably find me exploring new tech stacks, solving competitive programming challenges, or tinkering with my workspace setup.
+
+- 🔭 **Currently working on:** Full-Stack Web Apps, Flutter Mobile Apps & AI-Powered Systems
+- 🌱 **Currently learning:** Scalable Backend Architecture, FastAPI & Machine Learning Integration
+- 💬 **Ask me about:** React, Next.js, Laravel, Flutter (Dart), and Python
+- ⚡ **Fun fact:** *Turning caffeine with cigarettes and late-night ideas into clean code ☕*
 
 Nice to meet you! 🌱
 
@@ -55,6 +62,29 @@ Jika sudah connect akun di https://spotify-github-profile.kittinanx.com/, hapus 
   </a>
 </p>
 -->
+
+---
+
+<details>
+<summary><strong>📊 METRICS & ANIME OVERVIEW</strong></summary>
+
+<br/>
+
+[<img align="left" width="390" alt="📊 General Metrics" src="./assets/general.svg">](#)
+[<img align="right" width="390" alt="📺 Anime & Characters Metrics" src="./assets/medias.svg">](#)
+
+<br clear="both"/>
+
+</details>
+
+<details>
+<summary><strong>🏆 ACHIEVEMENTS</strong></summary>
+
+<br/>
+
+![Achievements](./assets/achievements.svg)
+
+</details>
 
 ---
 
@@ -107,6 +137,56 @@ Jika sudah connect akun di https://spotify-github-profile.kittinanx.com/, hapus 
 
 ---
 
+## 📌 Featured Projects
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🏛️ <a href="https://github.com/flyingdutchman125/GovSmart">GovSmart</a></h3>
+      <p align="center">
+        <strong>Platform E-Governance Cerdas Pemkab Lamongan</strong><br/>
+        <sub>Sistem layanan publik pintar dengan <em>AI Smart Routing</em>, <em>Emergency Classifier</em>, dan <em>Chatbot Perizinan</em>.</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🌿 <a href="https://github.com/flyingdutchman125/ecopoint_app">EcoPoint App</a></h3>
+      <p align="center">
+        <strong>Platform Manajemen Sampah Ekonomi Sirkular</strong><br/>
+        <sub>Aplikasi mobile pengelolaan sampah digital dengan <em>AI Trash Scanner (AI Vision)</em>, rute kolektor real-time, E-Wallet & Carbon Tracker.</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+        <img src="https://img.shields.io/badge/AI_Vision-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="AI Vision" />
+        <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white" alt="OSM" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">🏝️ <a href="https://github.com/flyingdutchman125/PaciTrip">PaciTrip</a></h3>
+      <p align="center">
+        <strong>Platform Pemesanan Tiket Wisata Pacitan</strong><br/>
+        <sub>Website reservasi dan pemesanan tiket destinasi wisata Pacitan secara online dengan manajemen jadwal dan antarmuka modern.</sub>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
@@ -143,6 +223,43 @@ Jika sudah connect akun di https://spotify-github-profile.kittinanx.com/, hapus 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
+
+---
+
+<details>
+  <summary><strong>🎮 I'M ALSO A GAMER 📍 (Click to expand)</strong></summary>
+
+  <br/>
+
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center" width="33%">
+          <img src="https://img.shields.io/badge/Mobile%20Legends-1E3A8A?style=for-the-badge&logo=gamepad&logoColor=FBBF24" alt="Mobile Legends" /><br/><br/>
+          <strong>⚔️ Mobile Legends: Bang Bang</strong><br/>
+          <sub>Push rank & mabar di Land of Dawn</sub><br/>
+          <!-- Kamu bisa ganti IGN / Role di bawah ini -->
+          <code>Mode: Ranked / Classic</code>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://img.shields.io/badge/Magic%20Chess%3A%20Go%20Go-7C3AED?style=for-the-badge&logo=chess&logoColor=white" alt="Magic Chess Go Go" /><br/><br/>
+          <strong>♟️ Magic Chess: Go Go</strong><br/>
+          <sub>Strategi sinergi & combo commander</sub><br/>
+          <!-- Kamu bisa ganti sinergi / commander favorit di bawah ini -->
+          <code>Mode: Auto-Battler Strategy</code>
+        </td>
+        <td align="center" width="33%">
+          <img src="https://img.shields.io/badge/Valorant-FD4556?style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant" /><br/><br/>
+          <strong>🎯 VALORANT</strong><br/>
+          <sub>Tactical FPS shooter</sub><br/>
+          <!-- Kamu bisa ganti Riot ID / Main Agent di bawah ini -->
+          <code>Mode: Competitive / Unrated</code>
+        </td>
+      </tr>
+    </table>
+  </div>
+
+</details>
 
 ---
 
