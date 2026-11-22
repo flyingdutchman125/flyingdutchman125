@@ -2,11 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=30&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&width=750&height=80&lines=%E2%96%B8+WELCOME+TO+MY+GITHUB+%E2%97%82;%E2%96%B8+HI%2C+I'M+MOCHAMMAD+ZACKI+%E2%97%82;%E2%96%B8+FULL-STACK+%26+MOBILE+DEVELOPER+%E2%97%82" alt="Typing SVG" />
 </div>
 
-# Greetings, Human! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave" />
+# Youkoso, Watashi No GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave" />
 
-<img align="right" width="360" alt="Coding GIF" src="https://media1.tenor.com/m/xAYj92aUDLIAAAAd/guts.gif" />
+<!-- Pilihan GIF Ayanokouji Kiyotaka (Classroom of the Elite):
+1. Eyes (640x360): https://media1.tenor.com/m/7mSj4FRRZP0AAAAd/kiyotaka-ayanokoji-eyes.gif
+2. Scene 1 (400x225): https://media1.tenor.com/m/EtOu8pI0zvsAAAAd/ayanokoji-kiyotaka-kiyotaka-ayanokoji.gif
+3. Scene 2 (498x281): https://media1.tenor.com/m/Hft0Ev3JylEAAAAd/classroom-of-the-elite-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu.gif
+4. Edit (498x399): https://media1.tenor.com/m/-raRPp4_uvUAAAAd/ayanokoji-classroom-of-the-elite.gif
+-->
+<img align="right" width="360" alt="Ayanokouji Kiyotaka GIF" src="https://media1.tenor.com/m/7mSj4FRRZP0AAAAd/kiyotaka-ayanokoji-eyes.gif" />
 
-**I'm** ***Mochammad Zacki*** (`@flyingdutchman125`) — a passionate and curious developer exploring the world of modern software engineering.  
+**I'm** ***Mochammad Zacki Ibrahim*** (`@flyingdutchman125`) — a passionate and curious developer exploring the world of modern software engineering.  
 Currently diving deep into **Full-Stack Web Development**, **Mobile App Development**, and **Python / AI**, while pursuing my studies at **PENS** *(Politeknik Elektronika Negeri Surabaya)*.
 
 I enjoy building end-to-end applications from scratch, designing clean and responsive user interfaces, architecting reliable backend systems, and constantly pushing myself to grow — one commit at a time.  
