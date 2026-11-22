@@ -198,6 +198,15 @@ Jika sudah connect akun di https://spotify-github-profile.kittinanx.com/, hapus 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=flyingdutchman125&theme=tokyo-night&area=true&hide_border=false&radius=12" width="95%" alt="Contribution Graph" />
 </p>
 
+<!-- Contribution Pac-Man Animation -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg" />
+    <img alt="pacman-contribution-graph" src="./assets/pacman-contribution-graph-dark.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 🏆 GitHub Trophies & Dev Quote
