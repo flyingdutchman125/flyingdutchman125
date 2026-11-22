@@ -77,15 +77,6 @@ Jika sudah connect akun di https://spotify-github-profile.kittinanx.com/, hapus 
 
 </details>
 
-<details>
-<summary><strong>🏆 ACHIEVEMENTS</strong></summary>
-
-<br/>
-
-![Achievements](./assets/achievements.svg)
-
-</details>
-
 ---
 
 ## 🤹 My Skills & Tech Stack
